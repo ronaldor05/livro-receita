@@ -1,0 +1,38 @@
+const val C=0
+
+fun main() {
+   var total:Float = 0.0F
+var num:Float = 0.0F
+var ultAcao:String="I"
+
+fun main(args: Array<String>){
+    var num = 0.0
+}
+
+ }
+ fun calcular(C:Char):String{
+    
+    if(num!=Null){
+        ultAcao = 'I';
+        num=0.0;
+        total =0.0;
+        numStr ="";
+    }else{
+        if(numStr.isNotEmpty()){
+            num = 0.0
+            numStr = ""
+            return "+C
+        }
+        when(ultAcao){
+            'I'->total = num
+            '+'->total = num
+            '-'->total = num
+            'X'->total = num
+            '/'->total = num
+            ultAcao = C
+
+        }
+    }
+    
+     return "" + total
+ }
